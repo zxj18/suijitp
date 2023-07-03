@@ -1,3 +1,11 @@
-https://apis.jxcxin.cn/api/qqrandommusic
-https://api.uomg.com/api/rand.music
-https://api.paugram.com/acgm/?list=1&play=true
+http://61.160.152.68/live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?
+http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw2687876293_-1703018199/ott.mobaibox.com/PLTV/3/224/3221227508/index.m3u8?icpid=3&RTS=1668597482&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw1197826796_-265147758/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8?icpid=3&RTS=1669699798&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
+https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
+https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
+https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
+https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
+https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
+https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
+https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
