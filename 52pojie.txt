@@ -1,0 +1,3 @@
+https://apis.jxcxin.cn/api/qqrandommusic
+https://api.uomg.com/api/rand.music
+https://api.paugram.com/acgm/?list=1&play=true
